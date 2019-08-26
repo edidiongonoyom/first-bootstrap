@@ -1,0 +1,17 @@
+
+
+#page-bg-image{
+    background-image: linear-gradient( rgb(0, 0, 36, 0.9), rgb(0, 0, 36, 0.9), rgb(0, 0, 36, 0.9)), url(images/hqdefault.jpg);
+    height: 695px;
+    width: auto;
+    background-size: cover;
+}
+
+
+
+@media(max-width:320px){
+    #page-bg-image{
+        height: 695%;
+ }
+    
+}
