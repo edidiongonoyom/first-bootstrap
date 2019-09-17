@@ -11,7 +11,25 @@
 
 @media(max-width:320px){
     #page-bg-image{
-        height: 695%;
+        height: 697%;
+ }
+    
+}
+@media(max-width:375px){
+    #page-bg-image{
+        height: 697%;
+ }
+    
+}
+@media(max-width:425px){
+    #page-bg-image{
+        height: 697%;
+ }
+    
+}
+@media(max-width:768px){
+    #page-bg-image{
+        height: 697%;
  }
     
 }
